@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"  fill="#F3EAD2">
+  
+<rect width="400" height="300" fill="#70CEAF"/>
+  
+<circle cx="200" cy="150" r="130" stroke="#0E532F" stroke-width="25" fill="none"/>
+  
+<circle cx="200" cy="150" r="60" stroke="#0E532F" stroke-width="25" fill="none"/>
+  
+<rect width="130" height="25" transform="translate(135,70)" fill="#0E532F"/>
+  <rect width="130" height="25" transform="translate(135,210)" fill="#0E532F"/>
+  
+</svg>

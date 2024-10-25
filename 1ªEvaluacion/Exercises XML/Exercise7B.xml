@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trip>
+
+    <travellers>
+        <traveller></traveller>
+        <traveller></traveller>
+    </travellers>
+
+    <dates>
+        <begin_date></begin_date>
+        <end_date></end_date>
+    </dates>
+
+    <destinations>
+        <destination></destination>
+        <destination></destination>
+        <destination></destination>
+    </destinations>
+    
+</trip>

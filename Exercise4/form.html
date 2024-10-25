@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Welcome to th 24x7 Compostela Fitness Club:Court Reservation Page!!</h1>
+
+    <img src="planification.png" width="300" height="300"/>
+
+
+    <form action="nothing.php" method="post">
+
+        <fieldset>
+            <legend>Member Demographics</legend>
+            <label for="name">Name</label>
+            <input type="text" name="Name" id="name">
+
+            <br>
+            <p>Are you a Member?</p>
+            <br>
+
+            <input type="radio" name="membership" id="member" value="member">
+            <label for="member">Member</label>
+
+            <input type="radio" name="membership" id="non-member" value="non-member">
+            <label for="non-member">Non-member</label>
+            
+            <br><br>
+
+            <label for="email">Email</label>
+            
+            <input type="email" name="Email" id="email">
+
+            <br><br>
+
+            
+        </fieldset>
+
+        <label for="facility">Facility</label>
+        <select name="facility" id="facility">
+            <option value="indoor football">Indoor football</option>
+            <option value="Badminton">Badminton</option> 
+            <option value="Squash">Squash</option>
+            <option value="Racquetball">Racquetball</option>  
+            <option value="Basketball">Basketball</option>            
+        </select>
+
+        <br><br>
+
+        <label for="date">Select a reservation date and time:</label>
+        <br><br>
+
+        <input type="date" name="date" id="dateR">
+        <input type="time" name="time" id="timeR">
+
+        <br><br>
+
+        <input type="checkbox" name="Agree" id="agree">
+        <label for="agree">I agree to the club's reservation policy</label>
+
+        <br><br>
+
+        <input type="submit" value="submit">
+
+
+    </form>
+
+</body>
+</html>

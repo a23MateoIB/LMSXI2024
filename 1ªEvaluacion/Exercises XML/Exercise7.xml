@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trip>
+
+    <travellers>
+        <traveller id="1">
+            <name>Mateo</name>
+            <surname>Iglesias</surname>
+        </traveller>
+
+        <traveller id="2">
+            <name>Mario</name>
+            <surname>Villanueva</surname>
+        </traveller>
+
+        <traveller id="3">
+            <name>Martin</name>
+            <surname>Otero</surname>
+        </traveller>
+    </travellers>
+
+    <begin_date>10/10/2024</begin_date>
+
+    <end_date>30/10/2024</end_date>
+    
+    <dep_place>Madrid</dep_place>
+
+    <Country name="France">
+        <cities>
+            <city id="P">
+                <name>Paris</name>
+                <hotel>Hotel Atmospheres</hotel>
+                <nights>12</nights>
+            </city>
+            <city id="L">
+                <name>Lion</name>
+                <hotel>Hôtel des Célestins</hotel>
+                <nights>8</nights>
+            </city>
+        </cities>
+    </Country>
+        
+
+    <price>3000€</price>
+</trip>

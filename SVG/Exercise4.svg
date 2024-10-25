@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"  fill="#F3EAD2">
+  
+<rect width="400" height="300" fill="#F3EAD2"/>
+  
+  <rect width="200" height="200" transform="translate(100,50)" fill="#EAC049"/>
+  
+<polygon points="0,0 140,0 0,140" transform="translate(130,80)" fill="#F3EAD2" />
+
+</svg>
